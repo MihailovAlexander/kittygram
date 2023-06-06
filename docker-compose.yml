@@ -32,4 +32,4 @@ services:
       - 9000:80
     volumes:
       - static_kitty:/staticfiles/
-      - media_kitty:/media/cats/images/
+      # - media_kitty:/media/cats/images/
