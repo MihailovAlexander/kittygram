@@ -16,8 +16,8 @@ services:
     image: mihailovalexander/kittygram_backend
     env_file: .env
     volumes:
-      - static_volume:/backend_static/
-      - media_kitty:/app/media/cats/images/
+      - static_kitty_production:/backend_static/
+      - media_kitty_production:/app/media/cats/images/
     depends_on:
     - db
   frontend:
