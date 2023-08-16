@@ -35,7 +35,7 @@ sudo docker compose -f docker-compose.production.yml up
 Клонируем себе репозиторий: 
 
 ```bash 
-git clone git@github.com:MihailovAlexander/kittygram_final.git
+git clone git@github.com:MihailovAlexander/kittygram.git
 ```
 
 Выполняем запуск:
