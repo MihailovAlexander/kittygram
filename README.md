@@ -1,4 +1,4 @@
-# Уважаемый гость! Если пользуешься данным репозиторием буду рад если нажмешь ⭐ в нем и ⭐ в моем профиле.
+# Уважаемый гость! Если пользуешься данным репозиторием буду рад если нажмешь ⭐ в правом верхнем углу экрана.
 
 [![.github/workflows/main.yml](https://github.com/MihailovAlexander/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/MihailovAlexander/kittygram_final/actions/workflows/main.yml)
 
