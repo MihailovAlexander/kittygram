@@ -39,10 +39,10 @@ sudo docker compose -f docker-compose.production.yml up
 ```bash
 git clone git@github.com:MihailovAlexander/kittygram.git
 ```
-Создаем 2 .env файла по образу в папках:
+Создаем 2 `.env` файла в папках по образцу `.env.example`:
 ```bash
-/kittygram
-/kittygram/backend/kittygram_backend/.env.example
+/kittygram/.env
+/kittygram/backend/kittygram_backend/.env
 ```
 Выполняем запуск:
 
