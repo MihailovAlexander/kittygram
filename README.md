@@ -34,12 +34,16 @@ sudo docker compose -f docker-compose.production.yml up
 
 ## Запуск проекта из исходников GitHub
 
-Клонируем себе репозиторий: 
+Клонируем себе репозиторий в рабочий каталог: 
 
-```bash 
+```bash
 git clone git@github.com:MihailovAlexander/kittygram.git
 ```
-
+Создаем 2 .env файла по образу в папках:
+```bash
+/kittygram
+/kittygram/backend/kittygram_backend/.env.example
+```
 Выполняем запуск:
 
 ```bash
