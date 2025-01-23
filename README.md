@@ -34,6 +34,8 @@ sudo docker compose -f docker-compose.production.yml up
 
 ## Запуск проекта из исходников GitHub
 
+Не забываем про `ALLOWED_HOSTS` в `backend/kittygram_backend/settings.py`
+
 Клонируем себе репозиторий в рабочий каталог: 
 
 ```bash
